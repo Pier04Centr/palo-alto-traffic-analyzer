@@ -14,9 +14,9 @@ It solves the "Blind Visibility" problem by deterministically correlating **Traf
 ## 🛠 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/TUO-USERNAME/palo-alto-traffic-analyzer.git](https://github.com/TUO-USERNAME/palo-alto-traffic-analyzer.git)
-	```
+```bash
+git clone https://github.com/Pier04Centr/palo-alto-traffic-analyzer.git
+```
 
 2. Install dependencies:
 ```bash
@@ -50,5 +50,6 @@ python main.py -t ./logs/traffic.csv -u ./logs/url.csv -o ./report.xlsx
 4. **Fallback**: `Domain` -> `Organization` -> `IP Address`.
 
 ## 📝 License
+
 
 MIT License
