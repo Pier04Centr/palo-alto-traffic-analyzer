@@ -1,0 +1,15 @@
+# Ignore Logs and Data
+*.csv
+*.mmdb
+logs/
+db/
+
+# Ignore Output Reports
+*.xlsx
+Report/
+
+# Python System Files
+__pycache__/
+*.pyc
+.env
+.DS_Store
